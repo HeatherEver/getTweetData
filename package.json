@@ -1,0 +1,23 @@
+{
+  "name": "gettweetdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeatherEver/getTweetData.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeatherEver/getTweetData/issues"
+  },
+  "homepage": "https://github.com/HeatherEver/getTweetData#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
